@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Building Name
 subtitle: lorem-ipsum
 date: '2020-12-07'
 categories: []
