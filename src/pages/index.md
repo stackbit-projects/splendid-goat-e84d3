@@ -3,7 +3,7 @@ title: Connelly & Company
 sections:
   - type: hero_section
     title: Connelly & Company
-    subtitle: Optional hero section subtitle
+    subtitle: Project Proposal
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
