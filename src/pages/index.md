@@ -306,5 +306,5 @@ sections:
     padding_bottom: large
     background_color: secondary
 template: advanced
-excerpt: Cnnelly Proposal
+excerpt: Connelly Proposal
 ---
