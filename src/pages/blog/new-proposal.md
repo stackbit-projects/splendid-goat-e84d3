@@ -1,6 +1,6 @@
 ---
 title: Building Name
-subtitle: lorem-ipsum
+subtitle: Building Address
 date: '2020-12-07'
 categories: []
 tags: []
